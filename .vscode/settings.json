@@ -1,0 +1,7 @@
+{
+	"eslint.useESLintClass": true,
+	"eslint.codeActionsOnSave.rules": [],
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true,
+	},
+}
